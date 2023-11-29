@@ -1,7 +1,7 @@
-# Gausul's Portfolio
+# Hi there, It's Mohd Gausul Abdeen! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gausul/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:mohdgausul@yahoo.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gausul/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-green?style=flat-square&logo=gmail)](mailto:mohdgausul@yahoo.in)
 
 ## About Me
 
@@ -43,4 +43,3 @@ Over 9+ years of experience in Team Lead | Full Stack Developer | Backend Develo
 ## Contact
 
 Feel free to reach out to me at mohdgausul@yahoo.in for any inquiries or collaboration opportunities.
-
