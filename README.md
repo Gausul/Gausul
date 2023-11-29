@@ -20,9 +20,8 @@ In my journey, I've delved into:
 - IoT Device Integration
 
 ## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/gausul/)
-- Email: [mohdgausul@yahoo.in](mailto:mohdgausul@yahoo.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gausul/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-green?style=flat-square&logo=gmail)](mailto:mohdgausul@yahoo.in)
 
 ## 📫 Let's Collaborate
 
